@@ -1,6 +1,6 @@
-# DecodeLabs Internship — DevOps Engineering Portfolio
+#  DevOps Engineering Portfolio
 
-Repository containing all projects and assignments completed during my **DevOps Internship at DecodeLabs**.
+Repository containing all projects and assignments completed during my **DevOps Internship **.
 
 This portfolio documents my practical learning journey across Linux system administration, Git and GitHub, CI/CD automation, and Docker containerization.
 
@@ -546,6 +546,6 @@ Future areas of learning include:
 
 ## Jay Mehta
 
-**DevOps Intern**
+****
 
-This repository contains practical projects completed during my DecodeLabs internship as part of my journey toward developing real-world DevOps and cloud engineering skills.
+This repository contains practical projects completed during internship as part of my journey toward developing real-world DevOps and cloud engineering skills.
