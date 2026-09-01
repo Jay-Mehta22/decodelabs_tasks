@@ -1,1 +1,38 @@
+Project 1 - Linux Command Line Execution
 
+Working Directory:
+pwd
+/mnt/d/DecodeLabs/Project 1/Project-1-Linux
+
+Filesystem Navigation:
+pwd
+cd
+ls
+ls -l
+ls -a
+ls -R
+
+Directory Management:
+mkdir
+mkdir -p
+
+File Management:
+touch
+cp
+mv
+rm
+
+Commands successfully practiced:
+- mkdir test-directory
+- mkdir -p demo/subfolder
+- touch file1.txt
+- touch file2.txt
+- cp file1.txt file1-copy.txt
+- mv file2.txt renamed-file.txt
+- rm file1-copy.txt
+- rm -r test-directory
+
+Final Project Structure:
+Project-1-Linux/
+└── logs/
+    └── terminal_execution.txt
